@@ -21,7 +21,7 @@ class DashboardPage(Frame, UIHelpers):
         txt_widget.insert(END, "Halo, ")
         txt_widget.insert(END, f"{username}!")
 
-        txt_widget.tag_add("color_user", "1.3", "end") 
+        txt_widget.tag_add("color_user", "1.4", "end") 
         txt_widget.tag_config("color_user", foreground="#06b6d4")
 
         txt_widget.config(state="disabled")
