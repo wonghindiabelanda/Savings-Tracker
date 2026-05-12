@@ -95,7 +95,7 @@ class AboutPage(Frame, UIHelpers):
 
                 Label(
                         container,
-                        text="Creator",
+                        text="Pembuat",
                         font=("Segoe UI", 26, "bold"),
                         bg="white",
                         fg="#111827"
