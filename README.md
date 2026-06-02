@@ -1,6 +1,6 @@
 ## Tutorial Penggunaan Aplikasi Savings Tracker
 
-Ikuti langkah-langkah di bawah ini untuk mulai mencatat tabungan kamu:
+Ikuti langkah-langkah di bawah ini untuk bisa menggunakan aplikasi Savings Tracker:
 
 ### 1. Pendaftaran & Autentikasi Pengguna
 Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu demi keamanan data.
@@ -59,7 +59,7 @@ Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status t
 <details>
 <summary><b>Klik di sini untuk melihat informasi tambahan mengenai sistem pengembang (About)</b></summary>
 
-Di dalam menu ini, Anda dapat melihat informasi mengenai versi aplikasi, lisensi, serta pengembang di balik pembuatan aplikasi **Savings-Tracker**.
+Di dalam menu ini, Anda dapat melihat informasi mengenai versi aplikasi, lisensi, serta pengembang di balik pembuatan aplikasi **Savings Tracker**.
 
 ![Halaman About](assets/screenshots/about.png)
 </details>
