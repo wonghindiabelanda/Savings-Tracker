@@ -35,7 +35,7 @@ Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu dem
 
 ---
 
-### 2. Memantau Beranda(Dashboard) & Target Tabungan
+<!--### 2. Memantau Beranda(Dashboard) & Target Tabungan
 Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status tabungan saat ini.
 <table>
   <tr>
@@ -51,11 +51,11 @@ Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status t
       </ul>
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
 
-### 3. Detail Informasi Aplikasi
+### Detail Informasi Aplikasi
 <details>
 <summary><b>Klik di sini untuk melihat informasi tambahan mengenai sistem pengembang (About)</b></summary>
 
