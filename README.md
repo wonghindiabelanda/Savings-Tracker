@@ -1,4 +1,4 @@
-## Tutorial Penggunaan Aplikasi (Usage)
+## Tutorial Penggunaan Aplikasi Savings Tracker
 
 Aplikasi **Savings-Tracker** ini memisahkan fitur utamanya ke dalam alur antarmuka yang rapi. Ikuti langkah-langkah di bawah ini untuk mulai mencatat tabungan kamu:
 
