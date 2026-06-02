@@ -45,7 +45,7 @@ class DashboardPage(Frame, UIHelpers):
         def more_settings(event=None):
                 wrapper_hamburg, hamburg_more_settings = self.rounded_container(self, bg_color="white", is_place_notpack=True, radius=18, padding=6, height=120, width=240, anchor="center", relx=0.87, rely=0.1)
 
-                misc_btn = Label(wrapper_hamburg, text="Hal Yang Lainnya", font=("Helvetica", 12, "bold"), bg="white", fg="#838383")
+                misc_btn = Label(wrapper_hamburg, text="About", font=("Helvetica", 12, "bold"), bg="white", fg="#838383")
                 misc_btn.place()
                 wrapper_hamburg.create_window(120, 43, window=misc_btn)
                 def trigger_misc(_=None):
