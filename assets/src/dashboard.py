@@ -214,7 +214,7 @@ class DashboardPage(Frame, UIHelpers):
                                                                      list(self.PERIOD_MAP.keys()), "1 Bulan")
 
         habit = self.drop_down_choice(content, "Menabung Per", 
-                                                                    list(self.FREQ_MAP.keys()), "Everyday")
+                                                                    list(self.FREQ_MAP.keys()), "SetiapHari")
 
         error_lbl = self.form_error(content)
 
@@ -313,7 +313,7 @@ class DashboardPage(Frame, UIHelpers):
                                                                      list(self.PERIOD_MAP.keys()), "1 Bulan")
 
         habit = self.drop_down_choice(content, "Menabung Per", 
-                                                                    list(self.FREQ_MAP.keys()), "Everyday")
+                                                                    list(self.FREQ_MAP.keys()), "SetiapHari")
 
         error_lbl = self.form_error(content)
 
