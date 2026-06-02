@@ -61,7 +61,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/hint1.png" alt="halaman Registrasi" width="100%">
+      <img src="assets/screenshots/hint1.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 1: Membuat Target Menabung Baru</h4>
@@ -72,7 +72,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/create.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/create.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 2: Mengisi kolom-kolom yang ada dan memilih pilihan yang tersedia dari kolom dropdown</h4>
@@ -86,7 +86,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/hint2.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/hint2.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 3(Opsional): Mencari Tombol More atau Tombol berikon Titik Tiga</h4>
@@ -97,7 +97,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/hint3.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/hint3.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 4(Wajib Jika Mau dan Telah Mengikuti Langkah ke 3): Mengedit Target Tabungan</h4>
@@ -108,7 +108,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/edit.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/edit.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 5(Wajib Jika Mau dan Telah Mengikuti Langkah ke 4): Mengisi kolom-kolom yang ada dan memilih pilihan yang tersedia dari kolom dropdown</h4>
@@ -122,7 +122,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/hint4.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/hint4.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 6(Wajib Jika Mau dan Telah Mengikuti Langkah ke 3): Menghapus Target Tabungan</h4>
@@ -133,7 +133,7 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/screenshots/delete.png" alt="halaman Login" width="100%">
+      <img src="assets/screenshots/delete.png" alt="halaman Beranda" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 7(Wajib Jika Mau dan Telah Mengikuti Langkah ke 6): Menetukan Apakah kita Benar Ingin Menghapusnya</h4>
