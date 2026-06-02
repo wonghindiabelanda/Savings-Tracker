@@ -412,7 +412,7 @@ class DashboardPage(Frame, UIHelpers):
                 self.load_goals()
 
         self.rounded_button(btn_row, "Batalkan", cancel, 120, 35, 6, "white", "#e5e7eb", "black", pack_opts={"side": "left", "padx": 8})
-        self.rounded_button(btn_row, "Hapus Target Menabung Ini", confirm, 120, 35, 6, "#ef4444", "#dc2626", "white", pack_opts={"side": "left", "padx": 8})
+        self.rounded_button(btn_row, "Hapus", confirm, 120, 35, 6, "#ef4444", "#dc2626", "white", pack_opts={"side": "left", "padx": 8})
 
 
         self.bind_click_outside(popup=canvas, target_bind=self.master, target=".!dashboardpage.!canvas")
