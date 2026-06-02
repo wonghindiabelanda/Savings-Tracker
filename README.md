@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9cf82064-c586-47be-b383-78f06e6ee7e5" />## Tutorial Penggunaan Aplikasi Savings Tracker
+## Tutorial Penggunaan Aplikasi Savings Tracker
 
 Ikuti langkah-langkah di bawah ini untuk bisa menggunakan aplikasi Savings Tracker:
 
