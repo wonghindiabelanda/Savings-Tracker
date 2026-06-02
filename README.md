@@ -35,9 +35,8 @@ Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu dem
 
 ---
 
-[PLACEHOLDER]
-<!--### 2. Memantau Beranda(Dashboard) & Target Tabungan
-Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status tabungan saat ini.
+2. Memantau Beranda(Dashboard) & Target Tabungan
+Setelah kalian masuk ke akun yang sudah dibuat, kamu akan langsung diarahkan ke menu utama untuk melihat status tabungan saat ini.
 <table>
   <tr>
     <td width="50%">
@@ -46,13 +45,13 @@ Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status t
     <td width="50%">
       <h4>Fitur Utama Dashboard:</h4>
       <ul>
-        <li><b>Total Tabungan:</b> Melihat akumulasi saldo yang berhasil dikumpulkan.</li>
-        <li><b>Grafik Progres:</b> Visualisasi target tabungan yang dirender secara dinamis.</li>
-        <li><b>Tombol Aksi:</b> Akses cepat untuk menambah saldo tabungan baru atau menarik dana.</li>
+        <li><b>Total Tabungan:</b> Melihat ada berapa target menabung yang telah dibuat yang dirender secara dinamis.</li>
+        <li><b>Total Target Menabung:</b> Visualisasi target tabungan secara keseluruhan yang dirender secara dinamis.</li>
+        <li><b>Total Tertabung:</b> Melihat akumulasi saldo yang berhasil dikumpulkan secara keseluruhan yang dirender secara dinamis.</li>
       </ul>
     </td>
   </tr>
-</table>-->
+</table>
 
 ---
 
