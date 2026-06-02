@@ -59,7 +59,7 @@ Setelah kalian masuk ke akun yang sudah dibuat, kamu akan langsung diarahkan ke 
 <details>
 <summary><b>Klik di sini untuk melihat informasi tambahan mengenai sistem pengembang (About)</b></summary>
 
-Di dalam menu ini, Anda dapat melihat informasi mengenai versi aplikasi, lisensi, serta pengembang di balik pembuatan aplikasi **Savings Tracker**.
+Di dalam menu ini, Anda dapat melihat informasi mengenai penjelasan aplikasi ini, siapa pembuat aplikasi ini, serta portofolio pengembang di balik pembuatan aplikasi **Savings Tracker**.
 
 ![Halaman About](assets/screenshots/about.png)
 </details>
