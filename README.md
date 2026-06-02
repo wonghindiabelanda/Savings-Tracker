@@ -27,7 +27,7 @@ Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu dem
       <ul>
         <li>Klik tombol "Log in" untuk masuk ke akun yang sudah dibuat.</li>
         <li>Masukkan email dan kata sandi yang telah didaftarkan.</li>
-        <li>Klik tombol <b>Log in</b> untuk masuk ke dalam halaman Beranda atau "Dashboard".</li>
+        <li>Klik tombol "<b>Log in</b>" untuk masuk ke dalam halaman Beranda atau "Dashboard".</li>
       </ul>
     </td>
   </tr>
