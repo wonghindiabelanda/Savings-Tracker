@@ -78,8 +78,8 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
       <h4>Langkah 2: Mengisi kolom-kolom yang ada dan memilih pilihan yang tersedia dari kolom dropdown</h4>
       <ul>
         <li>Isilah kolom "Tujuan Menabung", dan kolom "Nominal Per Sekali Nabung".</li>
-        <li>Klik kolom dropdown yang bernama "Jangka Menabung", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
-        <li>Klik kolom dropdown yang bernama "Menabung Per", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
+        <li>Klik kolom dropdown yang bertuliskan "Jangka Menabung", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
+        <li>Klik kolom dropdown yang bertuliskan "Menabung Per", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
         <li>Terakhir klik tombol "Buat Target Menabung Baru"</li>
       </ul>
     </td>
@@ -114,8 +114,8 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
       <h4>Langkah 5(Wajib Jika Mau dan Telah Mengikuti Langkah ke 4): Mengisi kolom-kolom yang ada dan memilih pilihan yang tersedia dari kolom dropdown</h4>
       <ul>
         <li>Isilah kolom "Tujuan Menabung", dan kolom "Nominal Per Sekali Nabung".</li>
-        <li>Klik kolom dropdown yang bernama "Jangka Menabung", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
-        <li>Klik kolom dropdown yang bernama "Menabung Per", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
+        <li>Klik kolom dropdown yang bertuliskan "Jangka Menabung", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
+        <li>Klik kolom dropdown yang bertuliskan "Menabung Per", lalu pilih dari salah satu pilihan yang tersedia menyesuaikan keinginan kalian.</li>
         <li>Terakhir klik tombol "Update Target Menabung"</li>
       </ul>
     </td>
@@ -138,8 +138,8 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
     <td width="50%">
       <h4>Langkah 7(Wajib Jika Mau dan Telah Mengikuti Langkah ke 6): Menetukan Apakah kita Benar Ingin Menghapusnya</h4>
       <ul>
-        <li>Jika kalian tidak menginginkannya, maka kliklah tombol yang bernama "Batalkan".</li>
-        <li>Jika kalian menginginkannya, maka kliklah tombol yang bernama "Hapus".</li>
+        <li>Jika kalian tidak menginginkannya, maka kliklah tombol yang bertuliskan "Batalkan".</li>
+        <li>Jika kalian menginginkannya, maka kliklah tombol yang bertuliskan "Hapus".</li>
       </ul>
     </td>
   </tr>
