@@ -208,7 +208,7 @@ class DashboardPage(Frame, UIHelpers):
                 return entry
 
         goal_name = field("Tujuan Menabung")
-        nominal = field("Nominal Per Save")
+        nominal = field("Nominal Per Sekali Nabung")
 
         period = self.drop_down_choice(content, "Jangka Menabung", 
                                                                      list(self.PERIOD_MAP.keys()), "1 Bulan")
@@ -307,7 +307,7 @@ class DashboardPage(Frame, UIHelpers):
                 return entry
 
         goal_name = field("Tujuan Menabung", goal_card.name)
-        nominal = field("Nominal Per Save", str(goal_card.nominal))
+        nominal = field("Nominal Per Sekali Nabung", str(goal_card.nominal))
 
         period = self.drop_down_choice(content, "Jangka Menabung", 
                                                                      list(self.PERIOD_MAP.keys()), "1 Bulan")
