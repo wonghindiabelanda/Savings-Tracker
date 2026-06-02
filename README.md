@@ -7,28 +7,27 @@ Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu dem
 <table>
   <tr>
     <td width="50%">
-      <!-- Ganti path gambar di bawah ini sesuai screenshot register kamu -->
       <img src="assets/screenshots/register.png" alt="Menu Registrasi" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 1: Registrasi Akun baru</h4>
       <ul>
-        <li>Buka aplikasi untuk pertama kali.</li>
-        <li>Klik menu pendaftaran pengguna baru.</li>
-        <li>Isi data nama, email, dan buat kata sandi yang aman.</li>
+        <li>Jalankan/buka aplikasi yang bernama "Savings Tracker.exe" atau "Savings Tracker".</li>
+        <li>Klik tombol "Sign Up" untuk membuat akun baru.</li>
+        <li>Isi data Username, dan buat kata sandi yang aman.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <!-- Ganti path gambar di bawah ini sesuai screenshot login kamu -->
       <img src="assets/screenshots/login.png" alt="Menu Login" width="100%">
     </td>
     <td width="50%">
       <h4>Langkah 2: Masuk ke Sistem</h4>
       <ul>
+        <li>Klik tombol "Log in" untuk masuk ke akun yang sudah dibuat.</li>
         <li>Masukkan email dan kata sandi yang telah didaftarkan.</li>
-        <li>Klik tombol <b>Login</b> untuk masuk ke dalam sistem utama.</li>
+        <li>Klik tombol <b>Log in</b> untuk masuk ke dalam halaman Beranda atau "Dashboard".</li>
       </ul>
     </td>
   </tr>
@@ -36,12 +35,11 @@ Sebelum mengelola keuangan, pengguna diwajibkan membuat akun terlebih dahulu dem
 
 ---
 
-### 2. Memantau Dashboard & Target Tabungan
+### 2. Memantau Beranda(Dashboard) & Target Tabungan
 Setelah masuk, kamu akan langsung diarahkan ke menu utama untuk melihat status tabungan saat ini.
 <table>
   <tr>
     <td width="50%">
-      <!-- Ganti path gambar di bawah ini sesuai screenshot dashboard kamu -->
       <img src="assets/screenshots/dashboard.png" alt="Dashboard Utama" width="100%">
     </td>
     <td width="50%">
