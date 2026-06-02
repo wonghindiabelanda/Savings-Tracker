@@ -46,7 +46,7 @@ Setelah kalian masuk ke akun yang sudah dibuat, kamu akan langsung diarahkan ke 
       <h4>Fitur Utama Dashboard:</h4>
       <ul>
         <li><b>Total Tabungan:</b> Melihat ada berapa target menabung yang telah dibuat yang dirender secara dinamis.</li>
-        <li><b>Total Target Menabung:</b> Visualisasi target tabungan secara keseluruhan yang dirender secara dinamis.</li>
+        <li><b>Total Target Menabung:</b> Visualisasi total target tabungan secara keseluruhan yang dirender secara dinamis.</li>
         <li><b>Total Tertabung:</b> Melihat akumulasi saldo yang berhasil dikumpulkan secara keseluruhan yang dirender secara dinamis.</li>
       </ul>
     </td>
