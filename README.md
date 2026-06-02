@@ -151,7 +151,8 @@ dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "Beranda".
 <details>
 <summary><b>Klik di sini untuk melihat informasi tambahan mengenai sistem pengembang (About)</b></summary>
 
-Di dalam halaman ini, Anda dapat melihat informasi mengenai penjelasan aplikasi ini, siapa pembuat aplikasi ini, serta portofolio pengembang di balik pembuatan aplikasi **Savings Tracker**.
+Di dalam halaman ini(kalian dapat mengakses halaman ini dengan mengklik ikon pojok kanan atas, lalu klik teks bertuliskan "About"),
+kalian dapat melihat informasi mengenai penjelasan aplikasi ini, siapa pembuat aplikasi ini, serta portofolio pengembang di balik pembuatan aplikasi **Savings Tracker**.
 
 ![Halaman About](assets/screenshots/about.png)
 </details>
